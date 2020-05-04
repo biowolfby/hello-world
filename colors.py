@@ -1,3 +1,4 @@
 i=100
 j=i+10
-print(j)
+k=j+10
+print(k)
