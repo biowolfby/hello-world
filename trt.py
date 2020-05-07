@@ -5,3 +5,4 @@ y=np.sin(x)
 print(y)
 mp.plot(x,y)
 mp.show()
+%рере
