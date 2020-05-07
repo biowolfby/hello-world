@@ -1,2 +1,2 @@
 r=45
-%master
+print(r)
